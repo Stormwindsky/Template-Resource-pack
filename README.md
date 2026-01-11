@@ -1,4 +1,4 @@
-# Template Resource pack
+# Template Resource pack (Minecraft)
 Here is my CC0 1.0 licensed resource pack template for Minecraft Java.
 
 # About the icon (pack.png)
